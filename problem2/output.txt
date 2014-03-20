@@ -1,0 +1,6 @@
+Filename 	 Ch 	 Count
+******** 	 ** 	 *****
+filename1.txt 	 d 	 72 
+filename2.txt 	 d 	 36 
+filename3.txt 	 d 	 54 
+filename4.txt 	 d 	 14 
